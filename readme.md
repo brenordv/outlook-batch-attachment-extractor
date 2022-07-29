@@ -11,6 +11,14 @@ When an email message is matched:
 
 
 # How to use
+## Requirements
+Make sure you have pywin32 installed:
+```shell
+pip install -r requirements.txt
+```
+
+
+## How to run
 Since this is a one time only script (for now, at least), i haven't created a command line.
 So, to use, change the parameters:
 ```python
